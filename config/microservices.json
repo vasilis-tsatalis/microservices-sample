@@ -1,0 +1,17 @@
+[
+    {
+        "prefix": "/order",
+        "target": "http://localhost:8081/",
+        "hooks": {}
+    },
+    {
+        "prefix": "/payment",
+        "target": "http://localhost:8082/",
+        "hooks": {}
+    },
+    {
+        "prefix": "/customer",
+        "target": "http://localhost:8083/",
+        "hooks": {}
+    }
+]

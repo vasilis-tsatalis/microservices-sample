@@ -1,0 +1,26 @@
+{
+  "name": "microservices-sample",
+  "version": "1.0.0",
+  "description": "NodeJS Microservices Architecture Orders Sample",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasilis-tsatalis/microservices-sample.git"
+  },
+  "author": "Vasilis Tsatalis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vasilis-tsatalis/microservices-sample/issues"
+  },
+  "homepage": "https://github.com/vasilis-tsatalis/microservices-sample#readme",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "fast-gateway": "^3.4.5",
+    "fs": "^0.0.1-security",
+    "nodemon": "^2.0.22"
+  }
+}
